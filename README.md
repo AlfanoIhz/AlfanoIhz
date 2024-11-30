@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-# Welcome to my GitHub profile! I'm Abi Ihza Rafi Alfano.
+Welcome to my GitHub profile! I'm Abi Ihza Rafi Alfano.
 
 # About Me
 
