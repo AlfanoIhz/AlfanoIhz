@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my GitHub profile! I'm Abi Ihza Rafi Alfano.
 
-# About Me
+## About Me
 
 🎓 Currently studying at Lampung University.
 
