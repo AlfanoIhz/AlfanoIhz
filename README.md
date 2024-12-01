@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Abi Ihza Rafi Alfano.
 
 🎓 Currently studying at Lampung University.
 
-🌱 Learning Laravel and JavaScript.
+🌱 Learning Flutter, Laravel and JavaScript.
 
 💬 Ask me about anything.
 
